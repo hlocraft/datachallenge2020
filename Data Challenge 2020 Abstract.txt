@@ -1,0 +1,7 @@
+﻿Group 20002
+Sarah Kim
+Hannah Locraft
+Ross Locraft
+Priya Gajendiran
+Abstract
+In order to best conserve resources and reduce pollution, it is of interest to increase recycling rates.  To uncover the most effective way to direct recycling education efforts, we studied the recycling diversion rates and capture rates for New York City.  We created a map of diversion rate by district and calculated the average total capture rate as well as the capture rates of individual materials for each district.  Additionally, we plotted the diversion rate against the fiscal month to determine when recycle rates are highest in the year, and we created a model to predict the annual diversion rate for each zone based on the previous values.  We found that district QE11 had the highest capture rate total, QW05 had the highest MGP rate total, and MN09 had the highest paper rate total.  District BX01 showed the lowest in all three categories.  We also found an increasing trend of recycling over time with January of 2016 as the only deviation of this trend.  We explained this deviation by researching the blizzard that occurred January 22-23, which shut down New York City public sanitation services for an extended time.  Finally, we determined that recycling education should focus on the Manhattan zone for increasing capture rate total, and Brooklyn North for increasing diversion rate. Even though the Bronx zone had the lowest rates in all categories, we determined that additional socioeconomic interventions are needed before educational efforts would be effective.
